@@ -1,0 +1,21 @@
+{
+    "name": "CV Anda",
+    "short_name": "CV",
+    "description": "CV sederhana Anda",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+        {
+            "src": "images/alyafiryalda.jpg",
+            "sizes": "192x192",
+            "type": "images/png"
+        },
+        {
+            "src": "images/alyafiryalda.jpg",
+            "sizes": "512x512",
+            "type": "images/png"
+        }
+    ]
+}
